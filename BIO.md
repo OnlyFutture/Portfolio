@@ -1,5 +1,5 @@
 
-Welcome to My Data Analyst Profile! 🚀
+{Welcome to My Data Analyst Profile! 🚀}
 Hi, I'm Pavel Butorin, a data analyst focused on turning data into valuable insights. My experience and skills include:
 Skills:
 * Data Analysis: Processing, visualizing, and interpreting data.
