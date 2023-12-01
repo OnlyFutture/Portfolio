@@ -10,8 +10,8 @@ Work Experience:
 [Domodedovo Integration]
 * Position: reporting systems programmer (SQL programmer)
 * Description:
-*     Developing reports using MicroStrategy, Crystal Reports, and other reporting systems.
-SQL query development.
+* Developing reports using MicroStrategy, Crystal Reports, and other reporting systems.
+**SQL query development.
 *      Creating technical documentation for developed software (user guides, administrator instructions).
 *      Working on complex and extensive projects, such as ETL process development (Tibco 6).
 *      Designing dashboards (complex, structured reports) for top management and developing KPIs.
